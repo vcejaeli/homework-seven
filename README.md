@@ -31,3 +31,14 @@ no imgs
 
 fix links:
 home travel buttons
+
+
+# comparison
+img that works:
+<!-- background-image: url(../assets/images-about/girlPicturejpeg.jpg); -->
+
+img that doesnt work:
+<!-- 
+style="background-image: url(../assets/images-tours/pack-aus/aus-tour-01.jpg); 
+-->
+

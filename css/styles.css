@@ -597,7 +597,7 @@ footer .footerBody .socialIcon img {
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/images-tours/tour-australia.jpg);
 }
 .tour .alltours #nz-promo {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/assets/images-tours/tour-nz.jpg);
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/images-tours/tour-nz.jpg);
 }
 .tour .alltours #france-promo {
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/images-tours/tour-france.jpg);
@@ -667,6 +667,7 @@ footer .footerBody .socialIcon img {
   max-width: 978px;
   height: 413px;
   color: #fff;
+  background-color: peru;
 }
 .packpage .packimages h1 {
   font-family: Proxima;
@@ -691,16 +692,19 @@ footer .footerBody .socialIcon img {
   float: left;
   width: 298px;
   height: 347px;
+  background-color: cadetblue;
 }
 .packpage .packimagesthree .packimagesthree-mid {
   float: left;
   width: 298px;
   height: 347px;
+  background-color: lightgreen;
 }
 .packpage .packimagesthree .packimagesthree-right {
   float: left;
   width: 298px;
   height: 347px;
+  background-color: lightskyblue;
 }
 .packpage .packtext {
   margin-top: 29px;
@@ -790,7 +794,7 @@ footer .footerBody .socialIcon img {
 .specialO .barcaSec .barcaImg {
   width: 199px;
   height: 287px;
-  background-image: url(/assets/images-specialO/special-offer-barca.jpg);
+  background-image: url(../assets/images-specialO/special-offer-barca.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -828,7 +832,7 @@ footer .footerBody .socialIcon img {
 .specialO .bangkokSec .bangkokImg {
   width: 199px;
   height: 287px;
-  background-image: url(/assets/images-specialO/special-offer-bangkok.jpg);
+  background-image: url(../assets/images-specialO/special-offer-bangkok.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1034,7 +1038,7 @@ footer .footerBody .socialIcon img {
   margin-top: -60px;
   width: 900px;
   height: 259px;
-  background-image: url(/assets/images-blog/blog.jpg);
+  background-image: url(../assets/images-blog/blog.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1086,7 +1090,7 @@ footer .footerBody .socialIcon img {
   margin-top: -60px;
   width: 900px;
   height: 259px;
-  background-image: url(/assets/images-blog/blog.jpg);
+  background-image: url(../assets/images-blog/blog.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
